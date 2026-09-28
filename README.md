@@ -74,3 +74,5 @@ This is not just a sorting or binary-search solution. Sorting is used to reduce 
 | Validation candidate-link recall | 0.9005 |
 | Validation candidate oracle macro F0.5 | 0.9608 |
 | Full validation score after uniqueness | approximately 0.9136 |
+
+- https://amazonmlchallengeexplorer.vercel.app/organizations/indian-institute-of-technology-iit-mandi
